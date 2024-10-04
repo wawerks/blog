@@ -7,10 +7,10 @@
             <div class="hero-content">
               <h1 class="headline mb-4">{{ typedText }}</h1>
               <p class="subtitle">
-                I'm a Victoria based <strong>Full Stack Software Engineer</strong>, currently working at <strong>Instant Domains</strong> helping build a modern, mobile-first, domain registrar and site builder.
+                I'm a School based <strong>Full Stack Software Engineer</strong>, currently working at <strong>Caraga State University</strong> helping build a modern, mobile-first, domain registrar and site builder.
               </p>
               <p class="subtitle">
-                In my free time, you can catch me training in <strong>Muay Thai</strong>, plucking my <strong>banjo</strong>, or exploring beautiful <strong>Vancouver Island</strong>.
+                In my free time, you can catch me training in <strong>Kung fu</strong>, plucking my <strong>Guitar</strong>, or exploring beautiful <strong>Mountains</strong>.
               </p>
   
               <!-- Social Links -->
