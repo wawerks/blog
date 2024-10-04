@@ -12,7 +12,7 @@
         <v-card>
           <v-card-title class="text-h5 text-center">Online Inquiry</v-card-title>
           <v-card-subtitle class="text-center">
-            Michelle Pais Group
+            Rhowin Jhon Lumales
           </v-card-subtitle>
           <v-card-text>
             <v-form @submit.prevent="submitForm">
