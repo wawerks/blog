@@ -26,7 +26,7 @@
                 required
               ></v-select>
               <v-textarea v-model="form.message" label="Message" rows="3"></v-textarea>
-              <v-btn color="primary" class="mt-3" block @click="submitForm">Submit</v-btn>
+              <v-btn class="mt-3 custom-button" block @click="submitForm">Submit</v-btn>
             </v-form>
           </v-card-text>
         </v-card>
@@ -161,6 +161,10 @@ export default {
 .social-icons .v-icon {
   font-size: 36px;
   cursor: pointer;
+}
+.custom-button {
+  background-color: #697565; /* Example custom color */
+  color: white; /* Button text color */
 }
 
 
