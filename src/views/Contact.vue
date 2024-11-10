@@ -37,8 +37,15 @@
           <v-list>
             <v-list-item>
               <v-list-item-content>
-                <v-list-item-title>Email: rhowinlumales.com</v-list-item-title>
-                <v-list-item-subtitle>Phone: (991) 607-3108</v-list-item-subtitle>
+                <v-list-item-title>Email:</v-list-item-title>
+                <v-list-item-subtitle> rhowinlumales.com</v-list-item-subtitle>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item>
+              <v-list-item-content>
+                <v-list-item-title>Phone:</v-list-item-title>
+                <v-list-item-subtitle>+639916023109</v-list-item-subtitle>
               </v-list-item-content>
             </v-list-item>
 
@@ -70,6 +77,8 @@
     <!-- Footer Section -->
     <v-row justify="center" class="footer">
       <v-col cols="12" class="text-center">
+        <p style="margin-top: 20px; margin-bottom: 10px;">Get in touch with me </p>
+
         <!-- Social Media Icons -->
         <div class="social-icons mb-4">
           <a href="https://github.com/wawerks" target="_blank">
